@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{9b505b61-e1f4-4798-93d6-e5810d733d4c}">
 		<property name="assetPath">
-			<value>amb/mus/Melodies-007.wav</value>
+			<value>amb/sfx/Melodies-007.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

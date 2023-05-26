@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{926e097c-3349-49cc-9471-29b3911593bd}">
 		<property name="builtBanksOutputDirectory">
-			<value>C:/Users/jordi/Desktop/REPOS/ShooterMole/Content/FMOD</value>
+			<value>../../FMOD</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{19d7d05c-ab20-4043-9dc0-315e952ea443}</destination>

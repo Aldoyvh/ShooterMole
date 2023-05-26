@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{3f46e1c1-f50e-42d7-a4aa-5b36d6235c2d}">
 		<property name="assetPath">
-			<value>amb/mus/Melodies-006.wav</value>
+			<value>amb/sfx/Melodies-006.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

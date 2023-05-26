@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0fdbd494-ef51-4163-834f-cbe6095daeed}">
+		<property name="assetPath">
+			<value>sfx/246147-x_door_phased.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.4455416666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ba3b4f9d-0349-4463-a323-61f98f1e992c}</destination>
+		</relationship>
+	</object>
+</objects>
