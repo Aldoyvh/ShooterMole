@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b632f0c7-4561-4273-a819-ab71b37af859}">
+		<property name="assetPath">
+			<value>amb/mus/Melodies-001.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>17</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ba3b4f9d-0349-4463-a323-61f98f1e992c}</destination>
+		</relationship>
+	</object>
+</objects>

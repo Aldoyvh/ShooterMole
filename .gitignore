@@ -74,3 +74,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 Plugins/*
+Content/Musica/Text/.cache/*
+Content/Musica/Text/.unsaved/*
+Content/Musica/Text/.user/*
