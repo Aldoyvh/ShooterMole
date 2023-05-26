@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{17323629-9b4b-4250-8321-f08c404e9045}">
+		<property name="assetPath">
+			<value>char/Footsteps/244262-Footstep_Single_Concrete_Soldier_Crouch_N02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.80041666666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ba3b4f9d-0349-4463-a323-61f98f1e992c}</destination>
+		</relationship>
+	</object>
+</objects>
